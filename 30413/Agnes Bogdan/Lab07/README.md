@@ -1,5 +1,6 @@
-# Lab X
+# Lab 07
 
-> Edit this file and describe in a few words what you've done in this lab.
+I looked over the linked lists (lab 2 - lab 3) and the binary trees, studied the programs, exercised a little, tried
+to understand what I did not before.
 
 
